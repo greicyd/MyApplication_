@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "232486047726",
+    "firebase_url": "https://ruleta-53e4c-default-rtdb.firebaseio.com",
+    "project_id": "ruleta-53e4c",
+    "storage_bucket": "ruleta-53e4c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:232486047726:android:f0a4a6a169490b8fc3c8ff",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8NhHq3P2a7fsUHKO03iIrqnhhli6aELo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
